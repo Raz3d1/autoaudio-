@@ -1,6 +1,8 @@
 ﻿# 睡前听 · AudioSleep
 
-**本周值得听的内容，一屏发现；想离线听，一键缓存。**
+**睡前听（AudioSleep / Shuiqian Ting）— 本周值得听的内容，一屏发现；想离线听，一键缓存。**
+
+> 睡前音频 · 离线收听 · 发现本周好评 · Android · Kotlin · 免费公开内容
 
 <p>
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white">
@@ -9,6 +11,8 @@
   <img alt="Release" src="https://img.shields.io/badge/release-v1.0.0-E5484D">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
 </p>
+
+**关键词**：睡前听 · 睡前音频 · 助眠 · 离线播放 · 音频下载 · 视频提取音轨 · 播客 · 有声书 · Android 开源项目
 
 ---
 
