@@ -1,4 +1,4 @@
-# 睡前听 · AudioSleep
+﻿# 睡前听 · AudioSleep
 
 **本周值得听的内容，一屏发现；想离线听，一键缓存。**
 
@@ -137,7 +137,7 @@ interface Resolver {
 
 ## 下载安装
 
-到 [Releases](../../releases) 页面下载最新的 `AutoAudio-1.0.apk`，或在仓库内取 `dist/AutoAudio-1.0.apk`。
+到 [Releases](https://github.com/Raz3d1/autoaudio-/releases) 页面下载最新的 `AutoAudio-1.0.apk`，或直接取仓库内的 [`dist/AutoAudio-1.0.apk`](dist/AutoAudio-1.0.apk)。
 
 安装：允许「安装未知来源应用」后打开 APK。这是 debug 签名包，未上架应用商店属于正常现象。
 
@@ -148,8 +148,8 @@ interface Resolver {
 ## 从源码构建
 
 ```bash
-git clone https://github.com/Raz3d1/autoaudio.git
-cd autoaudio
+git clone https://github.com/Raz3d1/autoaudio-.git
+cd autoaudio-
 
 # 1. 配置 SDK 路径（该文件不入库）
 cp local.properties.example local.properties
@@ -169,7 +169,7 @@ gradlew.bat assembleDebug      # Windows
 ## 目录结构
 
 ```
-autoaudio/
+autoaudio-/
 ├── app/src/main/
 │   ├── java/com/audiosleep/
 │   │   ├── App.kt                     # 启动时应用主题
