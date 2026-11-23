@@ -25,23 +25,6 @@
 
 ---
 
-## 界面
-
-| 夜间 | 白天 |
-|---|---|
-| ![夜间](docs/screenshots/discover-dark.webp) | ![白天](docs/screenshots/discover-light.webp) |
-
-| 空曲库（夜间） | 空曲库（白天） |
-|---|---|
-| ![空曲库夜间](docs/screenshots/empty-library-dark.webp) | ![空曲库白天](docs/screenshots/empty-library-light.webp) |
-
-- 大标题 + 圆角卡片 + 单一强调色的 iOS 风格
-- 底部四标签：**发现 / 解析 / 曲库 / 历史**
-- 迷你播放条常驻，全屏播放页支持拖动进度与睡眠定时
-- **黑夜 / 白天模式一键切换**，状态栏、插画、卡片全部跟随
-
----
-
 ## 功能
 
 ### 发现（主功能）
