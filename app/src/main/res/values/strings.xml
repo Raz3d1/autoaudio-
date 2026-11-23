@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">睡前听</string>
+
+    <string name="hint_link">粘贴分享链接</string>
+    <string name="btn_parse">解析</string>
+    <string name="btn_download">下载音频</string>
+    <string name="empty_list">还没有音频，粘贴一个链接开始吧</string>
+    <string name="sleep_timer">睡眠定时</string>
+
+    <string name="state_playing">正在播放</string>
+    <string name="state_paused">已暂停</string>
+    <string name="action_play">播放</string>
+    <string name="action_pause">暂停</string>
+    <string name="action_stop">停止</string>
+</resources>

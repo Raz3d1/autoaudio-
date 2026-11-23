@@ -1,0 +1,2 @@
+# 本文件由 Gradle 读取；仓库里只放示例，实际使用时复制为 local.properties 并改成自己的路径。
+sdk.dir=C:/path/to/Android/Sdk

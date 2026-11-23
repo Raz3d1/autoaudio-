@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 夜间模式 -->
+    <color name="bg">#0B0B0D</color>
+    <color name="surface">#17171A</color>
+    <color name="surface_alt">#1F1F24</color>
+    <color name="surface_press">#26262C</color>
+    <color name="stroke">#26262C</color>
+    <color name="stroke_soft">#1E1E23</color>
+
+    <color name="text_primary">#F2F2F5</color>
+    <color name="text_secondary">#9C9CA5</color>
+    <color name="text_tertiary">#6A6A73</color>
+
+    <color name="accent">#E5484D</color>
+    <color name="accent_press">#C93A3F</color>
+    <color name="accent_soft">#2A1618</color>
+    <color name="accent_glow">#66E5484D</color>
+
+    <color name="nav_bg">#121215</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
